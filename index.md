@@ -2,4 +2,4 @@
 
 # Kulanday #
 
-Kulanday is the software for collecting words and phrases for learning languages. It contains an interface for collecting words with audio-material and images to be used by the E-learning-interface.
+Kulanday is the software for collecting words and phrases for learning languages. Its main components are an interface for creating new entries for a single word or phrase enriched with one or more audio recordings (or already existing audio-material) and an image. This data can be later used for the learning-modes and of course to be used as a dictionary or for analysing the language.
