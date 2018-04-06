@@ -1,4 +1,4 @@
 # Tambi #
 
 ## Kulanday ##
-[kulanday]
+[kulanday](./kulanday.md)
