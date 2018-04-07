@@ -1,6 +1,7 @@
  <link rel="shortcut icon" type="image/x-icon" href="logo.ico">
 
 # Tambi #
+![alt text](./logo2.png)
 
 # Kulanday #
 
