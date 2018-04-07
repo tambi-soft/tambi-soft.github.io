@@ -1,7 +1,7 @@
  <link rel="shortcut icon" type="image/x-icon" href="logo.ico">
 
 # Tambi #
-![alt text](./logo2.png =150x)
+![logo](./logo2.png =150x150)
 
 # Kulanday #
 
