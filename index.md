@@ -1,7 +1,7 @@
- <link rel="shortcut icon" type="image/x-icon" href="logo.ico">
+ <link rel="shortcut icon" type="image/x-icon" href="./img/logo.ico">
 
 # Tambi #
-<img src="./logo2.png" alt="logo" width="200px" height="200px" align="right">
+<img src="./img/logo2.png" alt="logo" width="200px" height="200px" align="right">
 [Tambi](./tambi.md) is the main program for studying the bible (and much more).
 
 # Kulanday #
