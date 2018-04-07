@@ -2,6 +2,7 @@
 
 # Tambi #
 ![logo](./logo2.png)
+<img src="./logo2.png" alt="logo" width="150px" height="150px">
 
 # Kulanday #
 
