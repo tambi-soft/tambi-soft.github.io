@@ -2,6 +2,7 @@
 
 # Tambi #
 <img src="./logo2.png" alt="logo" width="200px" height="200px">
+Tambi is the main program for studying the bible (and much more).
 
 # Kulanday #
 
