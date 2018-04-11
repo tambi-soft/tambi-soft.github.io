@@ -1,6 +1,7 @@
 
 # Tambi #
 <img src="./img/logo2.png" alt="logo" width="200px" height="200px" align="right">
+
 [Tambi](./tambi.md) [tʰambi] is the main program for studying the bible (and much more).
 
 # Kulanday #
