@@ -1,4 +1,3 @@
- <link rel="shortcut icon" type="image/x-icon" href="./img/logo.ico">
 
 # Tambi #
 <img src="./img/logo2.png" alt="logo" width="200px" height="200px" align="right">
