@@ -1,4 +1,3 @@
-<link rel="icon" type="image/png" href="/img/favicon.png" />
 
 # Tambi #
 <img src="./img/logo2.png" alt="logo" width="200px" height="200px" align="right">
