@@ -15,4 +15,4 @@ Here you can download the latest beta for Windows:
 On Arch-Linux there is a PKGBUILD in the Aur called "kulanday-git".
 
 On other Operating Systems feel free to checkout the latest master and compile for yourself:
-<button type="button" target="_blank" onclick="location='https://github.com/tambi-soft/kulanday'">checkout the sourceode</button>
+<button type="button" target="_blank" onclick="window.open('https://github.com/tambi-soft/kulanday')">checkout the sourceode</button>
