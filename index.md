@@ -12,6 +12,10 @@
 Here you can download the latest beta for Windows:
 [button url="github.com/tambi-soft/kulanday/releases/tag/latest/kulanday.zip"]
 
+<button name="button" onclick="http://www.google.com">Click me</button>
+
+{% include button.html url="http://www.google.com" %}
+
 On Arch-Linux there is a PKGBUILD in the Aur called "kulanday-git".
 
 On other Operating Systems feel free to checkout the latest master and compile for yourself.
