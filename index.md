@@ -33,4 +33,4 @@ For testing Kulanday, you can checkout these decks:
 
 <button type="button" onclick="location='http://www.mathematik.uni-marburg.de/~beckers4/kulanday_decks/deutsch_obst.kdeck'">deutsch_obst.kdeck</button>
 
-Import this decks into Kulanday using the menu-entry: File -> Import Deck
+Import these decks into Kulanday using the menu-entry: File -> Import Deck
