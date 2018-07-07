@@ -15,7 +15,7 @@
 Here you can download the latest beta for Windows:
 <button type="button" onclick="location='https://github.com/tambi-soft/kulanday/releases/download/0.7.3/kulanday_0.7.3.zip'">Download beta 0.7.3</button>
 
-<img src="./img/logo_archlinux.png" alt="logo_windows" width="40px" height="30px" align="left" style="padding-right: "px;">
+<img src="./img/logo_archlinux.png" alt="logo_windows" width="40px" height="30px" align="left" style="padding-right: 5px;">
 On Arch-Linux there is a PKGBUILD in the Aur called "kulanday-git".
 
 On other Operating Systems feel free to checkout the latest master and compile for yourself:
