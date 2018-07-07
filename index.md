@@ -17,3 +17,20 @@ On Arch-Linux there is a PKGBUILD in the Aur called "kulanday-git".
 
 On other Operating Systems feel free to checkout the latest master and compile for yourself:
 <button type="button" target="_blank" onclick="window.open('https://github.com/tambi-soft/kulanday')">checkout the sourceode</button>
+
+## Test Decks ##
+For testing Kulanday, you can checkout these decks:
+
+<button type="button" onclick="location='http://www.mathematik.uni-marburg.de/~beckers4/kulanday_decks/deutsch_fahrzeuge.kdeck'">deutsch_fahrzeuge.kdeck</button>
+
+<button type="button" onclick="location='http://www.mathematik.uni-marburg.de/~beckers4/kulanday_decks/deutsch_gebaudeteile.kdeck'">deutsch_gebaudeteile.kdeck</button>
+
+<button type="button" onclick="location='http://www.mathematik.uni-marburg.de/~beckers4/kulanday_decks/deutsch_gemuse.kdeck'">deutsch_gemuse.kdeck</button>
+
+<button type="button" onclick="location='http://www.mathematik.uni-marburg.de/~beckers4/kulanday_decks/deutsch_kueche.kdeck'">deutsch_kueche.kdeck</button>
+
+<button type="button" onclick="location='http://www.mathematik.uni-marburg.de/~beckers4/kulanday_decks/deutsch_lebensmittel.kdeck'">deutsch_lebensmittel.kdeck</button>
+
+<button type="button" onclick="location='http://www.mathematik.uni-marburg.de/~beckers4/kulanday_decks/deutsch_obst.kdeck'">deutsch_obst.kdeck</button>
+
+Import this decks into Kulanday using the menu-enrty: File -> Import Deck
