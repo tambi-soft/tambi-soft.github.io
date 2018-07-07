@@ -25,7 +25,7 @@ For testing Kulanday, you can checkout these decks:
 
 <button type="button" onclick="location='http://www.mathematik.uni-marburg.de/~beckers4/kulanday_decks/deutsch_gebaudeteile.kdeck'">deutsch_gebaudeteile.kdeck</button>
 
-<button type="button" onclick="location='http://www.mathematik.uni-marburg.de/~beckers4/kulanday_decks/deutsch_gemuse.kdeck'">deutsch_gemuse.kdeck</button>
+<button type="button" onclick="location='http://www.mathematik.uni-marburg.de/~beckers4/kulanday_decks/deutsch_gemuese.kdeck'">deutsch_gemuese.kdeck</button>
 
 <button type="button" onclick="location='http://www.mathematik.uni-marburg.de/~beckers4/kulanday_decks/deutsch_kueche.kdeck'">deutsch_kueche.kdeck</button>
 
@@ -33,4 +33,4 @@ For testing Kulanday, you can checkout these decks:
 
 <button type="button" onclick="location='http://www.mathematik.uni-marburg.de/~beckers4/kulanday_decks/deutsch_obst.kdeck'">deutsch_obst.kdeck</button>
 
-Import this decks into Kulanday using the menu-enrty: File -> Import Deck
+Import this decks into Kulanday using the menu-entry: File -> Import Deck
