@@ -11,11 +11,11 @@
 [Kulanday](./kulanday.md) [kʰʊlandɛᶦ] is a software for collecting words and phrases for learning languages. Its main components are an interface for creating new entries for a single word or phrase enriched with one or more audio recordings (or already existing audio-material) and an image. This data can be later used for the learning-modes and of course to be used as a dictionary or for analysing the language. 
 
 
-<img src="./img/logo_windows.png" alt="logo_windows" width="40px" height="35px" align="left">
+<img src="./img/logo_windows.png" alt="logo_windows" width="40px" height="35px" align="left" padding-right="5px">
 Here you can download the latest beta for Windows:
 <button type="button" onclick="location='https://github.com/tambi-soft/kulanday/releases/download/0.7.3/kulanday_0.7.3.zip'">Download beta 0.7.3</button>
 
-<img src="./img/logo_archlinux.png" alt="logo_windows" width="40px" height="30px" align="left">
+<img src="./img/logo_archlinux.png" alt="logo_windows" width="40px" height="30px" align="left" padding-right="5px>
 On Arch-Linux there is a PKGBUILD in the Aur called "kulanday-git".
 
 On other Operating Systems feel free to checkout the latest master and compile for yourself:
