@@ -38,4 +38,6 @@ For testing Kulanday, you can checkout these decks:
 
 <button type="button" onclick="location='http://www.mathematik.uni-marburg.de/~beckers4/kulanday_decks/deutsch_verben.kdeck'">deutsch_verben.kdeck</button>
 
+<button type="button" onclick="location='http://www.mathematik.uni-marburg.de/~beckers4/kulanday_decks/deutsch_konjugation.kdeck'">deutsch_konjugation.kdeck</button>
+
 Import these decks into Kulanday using the menu-entry: File -> Import Deck
