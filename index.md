@@ -13,7 +13,7 @@
 
 <img src="./img/logo_windows.png" alt="logo_windows" width="40px" height="35px" align="left" style="padding-right: 5px;">
 Here you can download the latest beta for Windows:
-<button type="button" onclick="location='https://github.com/tambi-soft/kulanday/releases/download/0.8.0/kulanday_0.8.0.zip'">Download beta 0.8.0</button>
+<button type="button" onclick="location='https://github.com/tambi-soft/kulanday/releases/download/v0.8.1/kulanday_0.8.1.zip'">Download version 0.8.1</button>
 
 <img src="./img/logo_archlinux.png" alt="logo_windows" width="40px" height="30px" align="left" style="padding-right: 5px;">
 On Arch-Linux there is a PKGBUILD in the Aur called "kulanday-git".
