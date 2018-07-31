@@ -22,6 +22,8 @@ On other Operating Systems feel free to checkout the latest master and compile f
 <button type="button" target="_blank" onclick="window.open('https://github.com/tambi-soft/kulanday')">checkout the sourceode</button>
 
 ## Test Decks ##
+
+<!--
 For testing Kulanday, you can checkout these decks:
 
 ### Farsi ###
@@ -47,5 +49,9 @@ For testing Kulanday, you can checkout these decks:
 <button type="button" onclick="location='http://www.mathematik.uni-marburg.de/~beckers4/kulanday_decks/deutsch_verben.kdeck'">deutsch_verben.kdeck</button>
 
 <button type="button" onclick="location='http://www.mathematik.uni-marburg.de/~beckers4/kulanday_decks/deutsch_konjugation.kdeck'">deutsch_konjugation.kdeck</button>
+-->
+For testing Kulanday you can checkout some decks in persian and German here:
+
+https://www.mathematik.uni-marburg.de/~beckers4/kulanday_decks/
 
 Import these decks into Kulanday using the menu-entry: File -> Import Deck
