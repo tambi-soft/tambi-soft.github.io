@@ -52,6 +52,6 @@ For testing Kulanday, you can checkout these decks:
 -->
 For testing Kulanday you can checkout some decks in persian and German here:
 
-https://www.mathematik.uni-marburg.de/~beckers4/kulanday_decks/
+<a href="https://www.mathematik.uni-marburg.de/~beckers4/kulanday_decks/" target=_blank>https://www.mathematik.uni-marburg.de/~beckers4/kulanday_decks/</a>
 
 Import these decks into Kulanday using the menu-entry: File -> Import Deck
