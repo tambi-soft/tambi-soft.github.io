@@ -51,7 +51,6 @@ For testing Kulanday, you can checkout these decks:
 <button type="button" onclick="location='http://www.mathematik.uni-marburg.de/~beckers4/kulanday_decks/deutsch_konjugation.kdeck'">deutsch_konjugation.kdeck</button>
 -->
 For testing Kulanday you can checkout some decks in persian and German here:
-
-<a href="https://www.mathematik.uni-marburg.de/~beckers4/kulanday_decks/" target=_blank>https://www.mathematik.uni-marburg.de/~beckers4/kulanday_decks/</a>
+[Download some Test Decks](https://www.mathematik.uni-marburg.de/~beckers4/kulanday_decks/)
 
 Import these decks into Kulanday using the menu-entry: File -> Import Deck
