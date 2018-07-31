@@ -24,6 +24,14 @@ On other Operating Systems feel free to checkout the latest master and compile f
 ## Test Decks ##
 For testing Kulanday, you can checkout these decks:
 
+### Farsi ###
+<button type="button" onclick="location='http://www.mathematik.uni-marburg.de/~beckers4/kulanday_decks/farsi_kueche.kdeck'">deutsch_fahrzeuge.kdeck</button>
+
+<button type="button" onclick="location='http://www.mathematik.uni-marburg.de/~beckers4/kulanday_decks/farsi_obst.kdeck'">deutsch_fahrzeuge.kdeck</button>
+
+<button type="button" onclick="location='http://www.mathematik.uni-marburg.de/~beckers4/kulanday_decks/farsi_tiere.kdeck'">deutsch_fahrzeuge.kdeck</button>
+
+### German ###
 <button type="button" onclick="location='http://www.mathematik.uni-marburg.de/~beckers4/kulanday_decks/deutsch_fahrzeuge.kdeck'">deutsch_fahrzeuge.kdeck</button>
 
 <button type="button" onclick="location='http://www.mathematik.uni-marburg.de/~beckers4/kulanday_decks/deutsch_gebaudeteile.kdeck'">deutsch_gebaudeteile.kdeck</button>
